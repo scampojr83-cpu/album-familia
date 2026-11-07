@@ -25,3 +25,8 @@ Cada decisão com data e motivo. A mais recente fica no fim.
 ## 07/11/2026 — Celular de teste
 - **Decisão:** testes principais num Samsung Galaxy S23 Ultra (Android).
 - **Motivo:** aparelho do administrador. Ainda falta definir como testar no iPhone e num celular antigo.
+
+## 07/11/2026 — Base técnica da Fase 0
+- **Decisão:** React 19 + Vite 8 + TypeScript + Tailwind CSS 4 + vite-plugin-pwa 2, com testes em Vitest. Node 22 (arquivo `.node-version`, lido pela Cloudflare).
+- **Motivo:** tecnologias fixadas na seção 4 da especificação, nas versões estáveis atuais.
+- **Detalhe:** os ícones PNG são gerados a partir de `design/icones/icone-escolhido.svg` pelo comando `npm run icones`; o mesmo desenho serve de ícone "maskable" (Android), pois o conteúdo fica dentro da área segura.
