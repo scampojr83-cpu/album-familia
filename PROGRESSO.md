@@ -23,7 +23,8 @@
 - Endereço: gratuito da Cloudflare (.pages.dev).
 - Aprovação: rascunho + link de teste + "Merge" no GitHub.
 - Celular de teste: Samsung S23 Ultra (Android).
-- Pendente: como testar no iPhone.
+- iPhone: um parente com iPhone testa no fim de cada fase (~10 min).
+- Perguntas iniciais da Fase 0: todas respondidas.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
