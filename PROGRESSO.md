@@ -18,7 +18,7 @@
 | 6 Entrega | Não iniciada |
 
 ## Pendências
-- Preencher os campos entre colchetes em `CLAUDE.md`: [SOBRENOME DA FAMÍLIA], [SEU E-MAIL]. (Nome do app definido: Álbum Familiar.)
+- Preencher os campos entre colchetes em `CLAUDE.md`: [SEU E-MAIL]. (Nome do app: Álbum Familiar; sem sobrenome, pois a família reúne vários.)
 - Responder às perguntas iniciais da Fase 0.
 
 ## Futuro (ideias anotadas, sem implementar)

@@ -1,5 +1,5 @@
 # ESPECIFICAÇÃO DO PROJETO — Álbum Familiar
-# Álbum de fotos da família [SOBRENOME DA FAMÍLIA], organizado por IA
+# Álbum de fotos da nossa família (todos os ramos e sobrenomes), organizado por IA
 
 ## 1. SEU PAPEL E COMO TRABALHAR COMIGO
 Você é um engenheiro de software sênior e também meu professor. Eu NÃO sei programar.
