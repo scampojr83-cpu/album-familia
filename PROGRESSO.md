@@ -30,7 +30,8 @@
 - Celular de teste: Samsung S23 Ultra (Android).
 - iPhone: um parente com iPhone testa no fim de cada fase (~10 min).
 - Perguntas iniciais da Fase 0: todas respondidas.
-- Fase 0: conectar o GitHub à Cloudflare Pages e testar a instalação no S23 Ultra e no iPhone.
+- [x] Cloudflare Pages conectada ao GitHub (projeto `album-familiar`, branch de produção `main`).
+- Fase 0: testar a instalação no S23 Ultra e no iPhone pelo link de teste.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
