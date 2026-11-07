@@ -21,7 +21,8 @@
 - Campos da especificação preenchidos: nome (Álbum Familiar), descrição sem sobrenome, admin scampojr83@gmail.com.
 - Ícone escolhido: opção 1 (Álbum aberto).
 - Endereço: gratuito da Cloudflare (.pages.dev).
-- Responder às perguntas iniciais da Fase 0 que faltam: forma de aprovação, celulares de teste.
+- Aprovação: rascunho + link de teste + "Merge" no GitHub.
+- Responder à pergunta inicial que falta: celulares de teste.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
