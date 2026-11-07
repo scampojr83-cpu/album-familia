@@ -1,6 +1,6 @@
 # Progresso do projeto
 
-**Fase atual:** 0 — Fundação (código pronto; falta publicar na Cloudflare e testar no celular)
+**Fase atual:** 0 — Fundação (concluída e testada; aguardando aprovação)
 
 ## Pronto
 - [x] Especificação salva como `CLAUDE.md` (07/11/2026)
@@ -9,7 +9,7 @@
 ## Fases
 | Fase | Situação |
 |---|---|
-| 0 Fundação | Em andamento |
+| 0 Fundação | Concluída, aguardando aprovação |
 | 1 Acesso | Não iniciada |
 | 2 Fotos | Não iniciada |
 | 3 IA | Não iniciada |
@@ -33,7 +33,8 @@
 - [x] Cloudflare Pages conectada ao GitHub (projeto `album-familiar`, branch de produção `main`).
 - [x] Link de teste no ar: https://claude-focused-ramanujan-oe2.album-familiar-ed1.pages.dev
 - [x] Teste no Samsung S23 Ultra: 5 de 5 passos ok (07/11/2026).
-- Fase 0: testar a instalação no iPhone pelo link de teste.
+- [x] Teste no iPhone: 5 de 5 passos ok (07/11/2026).
+- Fase 0 concluída; aguardando "aprovado, pode seguir" para juntar à versão principal (main).
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
