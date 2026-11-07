@@ -9,3 +9,7 @@ Cada decisão com data e motivo. A mais recente fica no fim.
 ## 07/11/2026 — Uma pergunta por vez
 - **Decisão:** regra 13 adicionada à seção 1 do `CLAUDE.md`: fazer sempre uma pergunta por vez.
 - **Motivo:** pedido explícito do administrador.
+
+## 07/11/2026 — Ícone do app
+- **Decisão:** opção 1, "Álbum aberto" (livro de fotos com coração, fundo terracota). Arquivo: `design/icones/icone-escolhido.svg`.
+- **Motivo:** escolha do administrador entre 4 opções apresentadas.
