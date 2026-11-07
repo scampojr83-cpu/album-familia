@@ -32,7 +32,8 @@
 - Perguntas iniciais da Fase 0: todas respondidas.
 - [x] Cloudflare Pages conectada ao GitHub (projeto `album-familiar`, branch de produção `main`).
 - [x] Link de teste no ar: https://claude-focused-ramanujan-oe2.album-familiar-ed1.pages.dev
-- Fase 0: testar a instalação no S23 Ultra e no iPhone pelo link de teste.
+- [x] Teste no Samsung S23 Ultra: 5 de 5 passos ok (07/11/2026).
+- Fase 0: testar a instalação no iPhone pelo link de teste.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
