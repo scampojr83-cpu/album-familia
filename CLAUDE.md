@@ -1,4 +1,4 @@
-# ESPECIFICAÇÃO DO PROJETO — [NOME DO APP]
+# ESPECIFICAÇÃO DO PROJETO — Álbum Familiar
 # Álbum de fotos da família [SOBRENOME DA FAMÍLIA], organizado por IA
 
 ## 1. SEU PAPEL E COMO TRABALHAR COMIGO
