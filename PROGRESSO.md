@@ -20,7 +20,8 @@
 ## Pendências
 - Campos da especificação preenchidos: nome (Álbum Familiar), descrição sem sobrenome, admin scampojr83@gmail.com.
 - Ícone escolhido: opção 1 (Álbum aberto).
-- Responder às perguntas iniciais da Fase 0 que faltam: endereço do app, forma de aprovação, celulares de teste.
+- Endereço: gratuito da Cloudflare (.pages.dev).
+- Responder às perguntas iniciais da Fase 0 que faltam: forma de aprovação, celulares de teste.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
