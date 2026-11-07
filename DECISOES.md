@@ -21,3 +21,7 @@ Cada decisão com data e motivo. A mais recente fica no fim.
 ## 07/11/2026 — Fluxo de aprovação das fases
 - **Decisão:** o trabalho é feito num rascunho (branch). Cada fase tem um link de teste da Cloudflare. Após "aprovado, pode seguir", Claude abre um pull request para a branch `main` e o administrador confirma clicando em "Merge" no GitHub.
 - **Motivo:** o app que a família usa (main) só muda com aprovação explícita.
+
+## 07/11/2026 — Celular de teste
+- **Decisão:** testes principais num Samsung Galaxy S23 Ultra (Android).
+- **Motivo:** aparelho do administrador. Ainda falta definir como testar no iPhone e num celular antigo.

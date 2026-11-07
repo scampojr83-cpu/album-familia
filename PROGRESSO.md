@@ -22,7 +22,8 @@
 - Ícone escolhido: opção 1 (Álbum aberto).
 - Endereço: gratuito da Cloudflare (.pages.dev).
 - Aprovação: rascunho + link de teste + "Merge" no GitHub.
-- Responder à pergunta inicial que falta: celulares de teste.
+- Celular de teste: Samsung S23 Ultra (Android).
+- Pendente: como testar no iPhone.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
