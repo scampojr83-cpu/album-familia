@@ -18,7 +18,7 @@
 | 6 Entrega | Não iniciada |
 
 ## Pendências
-- Preencher os campos entre colchetes em `CLAUDE.md`: [SEU E-MAIL]. (Nome do app: Álbum Familiar; sem sobrenome, pois a família reúne vários.)
+- Campos da especificação preenchidos: nome (Álbum Familiar), descrição sem sobrenome, admin scampojr83@gmail.com.
 - Responder às perguntas iniciais da Fase 0.
 
 ## Futuro (ideias anotadas, sem implementar)

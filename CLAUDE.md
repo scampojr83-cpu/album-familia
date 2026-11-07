@@ -68,7 +68,7 @@ avós com pouca familiaridade com celular consigam usar sem ajuda.
   no banco e no máximo 1 consulta por segundo.
 
 ## 5. USUÁRIOS E PAPÉIS
-- Administrador ([SEU E-MAIL]): convida, remove, gerencia tudo, vê painel de uso.
+- Administrador (scampojr83@gmail.com): convida, remove, gerencia tudo, vê painel de uso.
 - Membro: envia, comenta, reage, nomeia pessoas, edita o que enviou.
 - Visitante: só vê álbuns liberados para ele (ex.: amigos da família).
 Entrada: SOMENTE por convite (link com código, válido 7 dias, uso único).
