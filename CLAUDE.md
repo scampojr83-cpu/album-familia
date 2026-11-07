@@ -27,6 +27,8 @@ Regras de trabalho (obrigatórias em toda sessão):
     me dê opções, em vez de continuar tentando às cegas.
 12. Se algo pedido aqui for impossível em alguma plataforma (ex.: limitação do iPhone),
     diga isso antes de programar e proponha o melhor comportamento possível.
+13. Faça SEMPRE UMA PERGUNTA POR VEZ. Espere a resposta antes de fazer a próxima.
+    Nunca mande uma lista de perguntas na mesma mensagem.
 
 ## 2. OBJETIVO
 Um app privado onde 10 a 30 parentes enviam fotos pelo celular e uma IA organiza tudo
