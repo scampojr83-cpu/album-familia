@@ -35,6 +35,7 @@
 - [x] Teste no Samsung S23 Ultra: 5 de 5 passos ok (07/11/2026).
 - [x] Teste no iPhone: 5 de 5 passos ok (07/11/2026).
 - [x] Fase 0 aprovada pelo administrador (07/11/2026).
+- [x] Versão principal publicada em https://album-familiar-ed1.pages.dev e instalada no S23 Ultra pelo endereço oficial.
 
 ## Futuro (ideias anotadas, sem implementar)
 - (vazio)
