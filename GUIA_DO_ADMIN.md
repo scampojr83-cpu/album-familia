@@ -9,7 +9,7 @@ Ele cresce a cada fase concluída.
 | Código do app | GitHub, repositório `album-familia` |
 | Especificação e progresso | Arquivos `CLAUDE.md` e `PROGRESSO.md` no repositório |
 | Desenho do ícone | `design/icones/icone-escolhido.svg` |
-| Site publicado | Cloudflare Pages (endereço gratuito `.pages.dev`) |
+| Site publicado | https://album-familiar-ed1.pages.dev (Cloudflare Pages, gratuito) |
 
 ## Como uma mudança chega ao app
 1. O Claude trabalha num rascunho (branch) e a Cloudflare gera um link de teste.

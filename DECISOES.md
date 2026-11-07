@@ -30,3 +30,7 @@ Cada decisão com data e motivo. A mais recente fica no fim.
 - **Decisão:** React 19 + Vite 8 + TypeScript + Tailwind CSS 4 + vite-plugin-pwa 2, com testes em Vitest. Node 22 (arquivo `.node-version`, lido pela Cloudflare).
 - **Motivo:** tecnologias fixadas na seção 4 da especificação, nas versões estáveis atuais.
 - **Detalhe:** os ícones PNG são gerados a partir de `design/icones/icone-escolhido.svg` pelo comando `npm run icones`; o mesmo desenho serve de ícone "maskable" (Android), pois o conteúdo fica dentro da área segura.
+
+## 07/11/2026 — Endereço definitivo
+- **Decisão:** o nome `album-familiar` já estava em uso na Cloudflare; o projeto ficou com o endereço `album-familiar-ed1.pages.dev` (versão principal).
+- **Links de teste:** cada rascunho ganha um endereço próprio, ex.: `claude-focused-ramanujan-oe2.album-familiar-ed1.pages.dev`.

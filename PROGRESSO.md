@@ -31,6 +31,7 @@
 - iPhone: um parente com iPhone testa no fim de cada fase (~10 min).
 - Perguntas iniciais da Fase 0: todas respondidas.
 - [x] Cloudflare Pages conectada ao GitHub (projeto `album-familiar`, branch de produção `main`).
+- [x] Link de teste no ar: https://claude-focused-ramanujan-oe2.album-familiar-ed1.pages.dev
 - Fase 0: testar a instalação no S23 Ultra e no iPhone pelo link de teste.
 
 ## Futuro (ideias anotadas, sem implementar)
